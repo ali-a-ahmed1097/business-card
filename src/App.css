@@ -1,0 +1,108 @@
+body {
+    color: white;
+    font-family: inter, sans-serif;
+    background-color: black;
+}
+
+button > img {
+    width: 16px;
+    height: 16px;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8.96727px 12.9527px 8.96727px 10.96px;
+    gap: 7.97px;
+
+    width: 114.58px;
+    height: 33.93px;
+
+    border-radius: 5.97818px;
+    border: 0;
+}
+
+.button-div {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.card {
+    width: 350px;
+    border-radius: 10px;
+    height: 850px;
+    overflow: hidden;
+    background-color: #1A1B21;
+    position: relative;
+}
+
+.anna {
+    width: 350px;
+    height: 350px;
+    left: 115.58px;
+    top: 43.84px;
+}
+
+.footer-div {
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-div > img {
+    width: 24px;
+    height: 24px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.content-div {
+    width: 246.1px;
+    height: 200.27px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.content-div > div {
+    font-size: 12px;
+}
+
+.content-div > h2 {
+    margin-top: 16px;
+    margin-bottom: 6px;
+}
+
+.email-button {
+    background-color: white;
+}
+
+.linkedin-button {
+    background: #5093E2;
+    color: white;
+}
+
+.head-div {
+    text-align: center;
+    margin-block: 16px;
+}
+
+.head-div > h2 {
+    color: #F3BF99;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.head-div > div {
+    margin-top: 10px;
+    font-size: 12px;
+}
